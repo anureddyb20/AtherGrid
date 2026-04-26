@@ -1,6 +1,15 @@
-# ⚡ AetherGrid: The Next-Gen Decentralized Smart Grid 🔋
+# <p align="center">⚡ AetherGrid</p>
 
-![AetherGrid Header](https://images.unsplash.com/photo-1473341304170-971dccb5ac1e?auto=format&fit=crop&q=80&w=1200&h=400)
+<p align="center">
+  <img src="https://img.shields.io/badge/TEAM-ELITES-orange?style=for-the-badge&logo=react" alt="Team Elites" />
+  <img src="https://img.shields.io/badge/VERSION-V1.0.0-blueviolet?style=for-the-badge" alt="Version" />
+  <img src="https://img.shields.io/badge/STATUS-ACTIVE-success?style=for-the-badge" alt="Status" />
+  <img src="https://img.shields.io/badge/BUILD-PREMIUM-gold?style=for-the-badge" alt="Build" />
+</p>
+
+<p align="center">
+  <i>The Next-Gen Decentralized Smart Grid Management Platform</i>
+</p>
 
 **AetherGrid** is a state-of-the-art energy management system built by team **ELITES** 🏆. Our mission is to optimize grid stability and enable seamless Peer-to-Peer (P2P) energy trading for a greener future. 🌍✨
 
