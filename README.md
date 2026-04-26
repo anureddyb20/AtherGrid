@@ -109,3 +109,14 @@ node p2p-server.js
 
 Now open `http://localhost:5173` and start trading! 🎊
 
+---
+
+## 🌍 Impact
+Inefficient energy distribution and reliance on centralized grids contribute to significant energy loss and carbon emissions globally. **AetherGrid** aims to optimize grid stability and facilitate local P2P trading, empowering communities to reduce their environmental impact and transition to a smarter, sustainable future.
+
+---
+
+<p align="center">
+  Developed with passion for a Greener & Sustainable Future by Team Elites
+</p>
+
