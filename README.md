@@ -111,6 +111,18 @@ Now open `http://localhost:5173` and start trading! 🎊
 
 ---
 
+## 🎯 Manual Usage
+
+If you'd like to run the demo and explore the features:
+
+1.  **Environment Setup**: Copy `.env` details from `.env.example` to `.env` .
+2.  **Launch Hub**: Run `npm run dev` for the dashboard and `node p2p-server.js` for the trading engine.
+3.  **Authentication**:
+    *   **Admin Access**: `Username: 2` | `Password: 2`
+    *   **User Access**: `Username: 1` | `Password: 1`
+
+---
+
 ## 🌍 Impact
 Inefficient energy distribution and reliance on centralized grids contribute to significant energy loss and carbon emissions globally. **AetherGrid** aims to optimize grid stability and facilitate local P2P trading, empowering communities to reduce their environmental impact and transition to a smarter, sustainable future.
 
