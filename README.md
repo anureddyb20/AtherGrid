@@ -1,13 +1,13 @@
-# <p align="center">⚡ AetherGrid</p>
+<h1 align="center">⚡ AetherGrid</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/VERSION-V1.0.0-blueviolet?style=for-the-badge" alt="Version" />
-  <img src="https://img.shields.io/badge/STATUS-ACTIVE-success?style=for-the-badge" alt="Status" />
-  <img src="https://img.shields.io/badge/BUILD-PREMIUM-gold?style=for-the-badge" alt="Build" />
+  <em>The Next-Gen Decentralized Smart Grid Management Platform</em>
 </p>
 
 <p align="center">
-  <i>The Next-Gen Decentralized Smart Grid Management Platform</i>
+  <img src="https://img.shields.io/badge/Version-v1.0.0-blueviolet" alt="Version" />
+  <img src="https://img.shields.io/badge/Status-Active-success" alt="Status" />
+  <img src="https://img.shields.io/badge/Build-Premium-gold" alt="Build" />
 </p>
 ---
 
