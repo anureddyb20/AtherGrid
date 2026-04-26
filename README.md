@@ -9,12 +9,10 @@
   <img src="https://img.shields.io/badge/Status-Active-success" alt="Status" />
   <img src="https://img.shields.io/badge/Build-Premium-gold" alt="Build" />
 </p>
----
 
 ## 🏢 Overview
 **AetherGrid** is a state-of-the-art energy management system designed to optimize grid stability and enable seamless Peer-to-Peer (P2P) energy trading for a greener future. 🌍✨
 
----
 
 ## 🚀 Amazing Features
 
@@ -36,7 +34,6 @@ Never run out of power! ⚡ Monitor your battery levels and optimize storage for
 ### 🛠️ Elite Admin Control
 Full power at your fingertips! 🕹️ A comprehensive dashboard for managing billing, datasets, and regional energy flow. 🏢
 
----
 
 ## 🛠️ Tech Stack (The Magic Behind AetherGrid)
 
@@ -48,7 +45,6 @@ Full power at your fingertips! 🕹️ A comprehensive dashboard for managing bi
 - **Real-time**: 📡 [Socket.io](https://socket.io/)
 - **Database**: ☁️ [Supabase](https://supabase.com/) (PostgreSQL)
 
----
 
 ## 📂 How It's Organized
 
@@ -63,7 +59,6 @@ Full power at your fingertips! 🕹️ A comprehensive dashboard for managing bi
 └── datasets/            # 📊 Energy & Solar CSV files
 ```
 
----
 
 ## 🚦 Getting Started (Simple Steps)
 
@@ -89,7 +84,6 @@ VITE_SUPABASE_ANON_KEY=your_supabase_anon_key
 1. Go to your [Supabase Dashboard](https://app.supabase.com/).
 2. Paste and run the code from `supabase_setup.sql` in the SQL Editor.
 
----
 
 ## 🖥️ Running the App
 
@@ -106,12 +100,10 @@ node p2p-server.js
 
 Now open `http://localhost:5173` and start trading! 🎊
 
----
 
 ## 👨‍💻 Developer
 - **Anu Reddy** - [GitHub](https://github.com/anureddyb20)
 
----
 
 ## 📜 License
 This project is licensed under the MIT License. 🛡️
