@@ -9,7 +9,9 @@
 <p align="center">
   <i>The Next-Gen Decentralized Smart Grid Management Platform</i>
 </p>
+---
 
+## 🏢 Overview
 **AetherGrid** is a state-of-the-art energy management system designed to optimize grid stability and enable seamless Peer-to-Peer (P2P) energy trading for a greener future. 🌍✨
 
 ---
