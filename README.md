@@ -109,14 +109,3 @@ node p2p-server.js
 
 Now open `http://localhost:5173` and start trading! 🎊
 
----
-
-## 👨‍💻 Developer
-- **Anu Reddy** - [GitHub](https://github.com/anureddyb20)
-
----
-
-## 📜 License
-This project is licensed under the MIT License. 🛡️
-
----
