@@ -41,13 +41,15 @@ Full power at your fingertips! 🕹️ A comprehensive dashboard for managing bi
 
 ## 🛠️ Tech Stack (The Magic Behind AetherGrid)
 
-- **Frontend**: ⚛️ [React 19](https://react.dev/) + ⚡ [Vite](https://vitejs.dev/)
-- **Visuals**: 📊 [Recharts](https://recharts.org/) + 🎨 Vanilla CSS 
-- **Icons**: 🎭 [Lucide React](https://lucide.dev/)
-- **Maps**: 🗺️ [Leaflet](https://leafletjs.com/)
-- **Backend**: 🟢 [Node.js](https://nodejs.org/) + 🚀 [Express](https://expressjs.com/)
-- **Real-time**: 📡 [Socket.io](https://socket.io/)
-- **Database**: ☁️ [Supabase](https://supabase.com/) (PostgreSQL)
+| Layer | Technology |
+| :--- | :--- |
+| **🌐 Frontend** | [React 19](https://react.dev/) + [Vite](https://vitejs.dev/) |
+| **📊 Visuals** | [Recharts](https://recharts.org/) + Vanilla CSS |
+| **🎭 Icons** | [Lucide React](https://lucide.dev/) |
+| **🗺️ Maps** | [Leaflet](https://leafletjs.com/) |
+| **⚙️ Backend** | [Node.js](https://nodejs.org/) + [Express](https://expressjs.com/) |
+| **📡 Real-time** | [Socket.io](https://socket.io/) |
+| **☁️ Database** | [Supabase](https://supabase.com/) (PostgreSQL) |
 
 ---
 
