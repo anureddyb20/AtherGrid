@@ -1,7 +1,6 @@
 # <p align="center">⚡ AetherGrid</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/TEAM-ELITES-orange?style=for-the-badge&logo=react" alt="Team Elites" />
   <img src="https://img.shields.io/badge/VERSION-V1.0.0-blueviolet?style=for-the-badge" alt="Version" />
   <img src="https://img.shields.io/badge/STATUS-ACTIVE-success?style=for-the-badge" alt="Status" />
   <img src="https://img.shields.io/badge/BUILD-PREMIUM-gold?style=for-the-badge" alt="Build" />
@@ -11,7 +10,7 @@
   <i>The Next-Gen Decentralized Smart Grid Management Platform</i>
 </p>
 
-**AetherGrid** is a state-of-the-art energy management system built by team **ELITES** 🏆. Our mission is to optimize grid stability and enable seamless Peer-to-Peer (P2P) energy trading for a greener future. 🌍✨
+**AetherGrid** is a state-of-the-art energy management system designed to optimize grid stability and enable seamless Peer-to-Peer (P2P) energy trading for a greener future. 🌍✨
 
 ---
 
@@ -107,11 +106,8 @@ Now open `http://localhost:5173` and start trading! 🎊
 
 ---
 
-## 🏆 Developed by Team ELITES
-We are a group of passionate innovators dedicated to building sustainable energy solutions. 💡
-
-- **Anu Reddy** - [GitHub](https://github.com/anureddyb20) 👨‍💻
-- Team **ELITES** 🌟
+## 👨‍💻 Developer
+- **Anu Reddy** - [GitHub](https://github.com/anureddyb20)
 
 ---
 
